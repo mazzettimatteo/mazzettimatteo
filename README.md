@@ -15,7 +15,7 @@ class Developer:
 me = Developer()
 me.defineNotation()
 ```
-![About Me](./bio.svg)
+<div><img src="https://raw.githubusercontent.com/mazzettimatteo/mazzettimatteo/1f4936316c10802598153f6e54d3b242bd86ef2f/bio.svg"></div>
 
 <p align="center">
   <img src="imgs/CPP.svg" height="40" width="40" />
