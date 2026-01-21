@@ -1,23 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380">
   <style>
     .code-text { 
       font-family: Consolas, "Courier New", monospace; 
       fill: #F2A5B0; 
-      font-size: 14px; 
+      font-size: 24px; 
+      font-weight: bold;
     }
   </style>
   
-  <text x="10" y="25" class="code-text">&gt; About Me</text>
+  <text x="10" y="40" class="code-text">&gt; About Me</text>
   
-  <text x="10" y="50" class="code-text">[INFO] Hi, I'm Matteo (Mazzo)...</text>
+  <text x="10" y="80" class="code-text">[INFO] Hi, I'm Matteo (Mazzo)...</text>
   
-  <text x="10" y="75" class="code-text">[INFO] CS Student @ Unibo, Italy</text>
+  <text x="10" y="120" class="code-text">[INFO] CS Student @ Unibo, IT</text>
   
-  <text x="10" y="100" class="code-text">[INFO] If I'm not working, I am:</text>
+  <text x="10" y="160" class="code-text">[INFO] If I'm not working:</text>
   
-  <text x="40" y="125" class="code-text">* Watching F1 </text>
-  <text x="40" y="150" class="code-text">* Playing tennis </text>
-  <text x="40" y="175" class="code-text">* Playing the drums </text>
+  <text x="50" y="200" class="code-text">* Watching F1</text>
+  <text x="50" y="240" class="code-text">* Playing tennis</text>
+  <text x="50" y="280" class="code-text">* Playing the drums</text>
   
-  <text x="10" y="210" class="code-text">&gt; _</text>
+  <text x="10" y="340" class="code-text">&gt; _</text>
 </svg>
