@@ -10,11 +10,11 @@
   
 	  <text x="10" y="40" class="code-text">&gt; About Me</text>
   
-						  <text x="10" y="80" class="code-text">[INFO] Hi, I'm Matteo, but my friends call me Mazzo...</text>
+						  <text x="10" y="80" class="code-text">[INFO] Hi, I'm Mazzo...</text>
   
   <text x="10" y="120" class="code-text">[INFO] I'm from Bologna, Italy...</text>
   
-  <text x="10" y="160" class="code-text">[INFO] If I'm not working:</text>
+  <text x="10" y="160" class="code-text">[INFO] If I'm not working I am:</text>
   
   <text x="104" y="200" class="code-text">* Watching F1</text>
   <text x="104" y="240" class="code-text">* Playing tennis</text>
