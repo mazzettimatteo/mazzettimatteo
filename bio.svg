@@ -4,7 +4,7 @@
       font-family: Consolas, "Courier New", monospace; 
       fill: #F2A5B0; 
       font-size: 24px; 
-      font-weight: bold;
+      font-weight: normal;
     }
   </style>
   
