@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 About Me
 
-<!--
-**mazzettimatteo/mazzettimatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
 
-Here are some ideas to get you started:
+class Developer:
+    def __init__(self):
+        self.name = "Matteo Mazzetti"
+        self.role = "CS Student @ Unibo"
+        self.languages = ["en_US", "it_IT"]
+        self.email = "mazzetti.matteo.ita@gmail.com"
+        
+    def defineNotation(self):
+        print("I'm a camelCase enthusiast!")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = Developer()
+me.defineNotation()
+
