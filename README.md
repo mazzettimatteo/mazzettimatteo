@@ -1,7 +1,7 @@
-### 👋 About Me
+<div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2A5B0&width=435&lines=Matteo+Mazzetti;mazzetti.matteo.ita%40gmail.com" alt="Typing SVG" /></a></div>
+
 
 ```python
-
 class Developer:
     def __init__(self):
         self.name = "Matteo Mazzetti"
@@ -14,4 +14,28 @@ class Developer:
 
 me = Developer()
 me.defineNotation()
+```
+$\color{#F2A5B0}\texttt{> About Me}$<br>
+$\color{#F2A5B0}\texttt{[INFO] Hi, I'm Matteo, or as my friends call me, Mazzo...}$<br>
+$\color{#F2A5B0}\texttt{[INFO] I'm a CS Student at Bologna university, Italy...}$<br>
+$\color{#F2A5B0}\texttt{[INFO] If I'm not working then I am either:  }$<br>
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Watching F1}$<br>
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing tennis}$<br>
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing the drums}$<br>
+$\color{#F2A5B0}\texttt{> \_}$<br>
+
+<p align="center">
+  <img src="imgs/CPP.svg" height="40" width="40" />
+  <img src="imgs/Java-Light.svg" height="40" width="40" />
+  <img src="imgs/Python-Light.svg" height="40" width="40" />
+  <img src="imgs/HTML.svg" height="40" width="40" />
+  <img src="imgs/CSS.svg" height="40" width="40" />
+  <img src="imgs/JavaScript.svg" height="40" width="40" />
+  <img src="imgs/Git.svg" height="40" width="40" />
+  <img src="imgs/Debian-Light.svg" height="40" width="40" />
+  <img src="imgs/Windows-Light.svg" height="40" width="40" />
+  <img src="imgs/VIM-Light.svg" height="40" width="40" />
+  <img src="imgs/VSCode-Light.svg" height="40" width="40" />
+</p>
+
 
