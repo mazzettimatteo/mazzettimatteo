@@ -20,17 +20,17 @@ me.defineNotation()
 ![About Me](./bio.svg)
 
 <p align="center">
-  <img src="imgs/CPP.svg" height="40" width="40" />
-  <img src="imgs/Java-Light.svg" height="40" width="40" />
-  <img src="imgs/Python-Light.svg" height="40" width="40" />
-  <img src="imgs/HTML.svg" height="40" width="40" />
-  <img src="imgs/CSS.svg" height="40" width="40" />
-  <img src="imgs/JavaScript.svg" height="40" width="40" />
-  <img src="imgs/Git.svg" height="40" width="40" />
-  <img src="imgs/Debian-Light.svg" height="40" width="40" />
-  <img src="imgs/Windows-Light.svg" height="40" width="40" />
-  <img src="imgs/VIM-Light.svg" height="40" width="40" />
-  <img src="imgs/VSCode-Light.svg" height="40" width="40" />
+  <img src="imgs/CPP.svg" height="80" width="80" />
+  <img src="imgs/Java-Light.svg" height="80" width="80" />
+  <img src="imgs/Python-Light.svg" height="80" width="80" />
+  <img src="imgs/HTML.svg" height="80" width="80" />
+  <img src="imgs/CSS.svg" height="80" width="80" />
+  <img src="imgs/JavaScript.svg" height="80" width="80" />
+  <img src="imgs/Git.svg" height="80" width="80" />
+  <img src="imgs/Debian-Light.svg" height="80" width="80" />
+  <img src="imgs/Windows-Light.svg" height="80" width="80" />
+  <img src="imgs/VIM-Light.svg" height="80" width="80" />
+  <img src="imgs/VSCode-Light.svg" height="80" width="80" />
 </p>
 
 
