@@ -22,7 +22,7 @@ $\color{#F2A5B0}\texttt{[INFO] If I'm not working then I am either:  }$<br>
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Watching F1}$<br>
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing tennis}$<br>
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing the drums}$<br>
-$\color{#F2A5B0}\texttt{> \_}$<br>
+$\color{#F2A5B0}\texttt{> \\_ }$<br>
 
 <p align="center">
   <img src="imgs/CPP.svg" height="40" width="40" />
