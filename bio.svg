@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 600 250" width="600" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .terminal {
+          font-family: 'Fira Code', monospace;
+          font-size: 14px;
+          color: #F2A5B0;
+          line-height: 1.5;
+        }
+      </style>
+      <div class="terminal">
+        <div>&gt; About Me</div>
+        <div>[INFO] Hi, I'm Matteo, or as my friends call me, Mazzo...</div>
+        <div>[INFO] I'm a CS Student at Bologna university, Italy...</div>
+        <div>[INFO] If I'm not working then I am either:</div>
+        <div>&nbsp;&nbsp;&nbsp;&nbsp;* Watching F1</div>
+        <div>&nbsp;&nbsp;&nbsp;&nbsp;* Playing tennis</div>
+        <div>&nbsp;&nbsp;&nbsp;&nbsp;* Playing the drums</div>
+        <div>&gt; <span style="animation: blink 1s infinite">_</span></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

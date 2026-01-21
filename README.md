@@ -15,14 +15,7 @@ class Developer:
 me = Developer()
 me.defineNotation()
 ```
-$\color{#F2A5B0}\texttt{> About Me}$<br>
-$\color{#F2A5B0}\texttt{[INFO] Hi, I'm Matteo, or as my friends call me, Mazzo...}$<br>
-$\color{#F2A5B0}\texttt{[INFO] I'm a CS Student at Bologna university, Italy...}$<br>
-$\color{#F2A5B0}\texttt{[INFO] If I'm not working then I am either:  }$<br>
-$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Watching F1}$<br>
-$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing tennis}$<br>
-$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \color{#F2A5B0}\texttt{* Playing the drums}$<br>
-$\color{#F2A5B0}\texttt{> \\_ }$<br>
+![About Me](bio.svg)
 
 <p align="center">
   <img src="imgs/CPP.svg" height="40" width="40" />
