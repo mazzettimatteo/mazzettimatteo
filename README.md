@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F2A5B0&width=435&lines=Matteo+Mazzetti;mazzetti.matteo.ita%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F2A5B0&width=435&lines=Matteo+Mazzetti;mazzetti.matteo.ita%40gmail.com)](https://git.io/typing-svg)
 
 
 ```python
