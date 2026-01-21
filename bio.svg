@@ -16,9 +16,9 @@
   
   <text x="10" y="160" class="code-text">[INFO] If I'm not working:</text>
   
-  <text x="50" y="200" class="code-text">* Watching F1</text>
-  <text x="50" y="240" class="code-text">* Playing tennis</text>
-  <text x="50" y="280" class="code-text">* Playing the drums</text>
+  <text x="104" y="200" class="code-text">* Watching F1</text>
+  <text x="104" y="240" class="code-text">* Playing tennis</text>
+  <text x="104" y="280" class="code-text">* Playing the drums</text>
   
   <text x="10" y="340" class="code-text">&gt; _</text>
 </svg>
